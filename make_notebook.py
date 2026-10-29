@@ -49,7 +49,7 @@ plt.savefig(FIG / 'fig1_dynasties_timeline.png'); plt.show()
 d[['dynasty_number', 'dynasty', 'period', 'start_bc', 'end_bc', 'n_pharaohs']].head(12)
 """)
 md("""
-Two things show in the bars. The Second Intermediate Period dynasties (13th to 17th) carry far more names than their years would suggest: dozens of short-lived kings known from a single scarab or king-list entry. And the Ptolemaic bar, 275 years long, holds a tidy fifteen rulers, because that period is documented year by year.
+Two things show in the bars. The Second Intermediate Period dynasties (13th to 17th) carry far more names than their years would suggest: dozens of short-lived kings known from a single scarab or king-list entry. And the Ptolemaic bar, 275 years long, holds 22 rulers (the Ptolemies plus their co-regents), a period documented year by year.
 """)
 md("## 2. Reign lengths where Wikidata records both ends")
 code("""
