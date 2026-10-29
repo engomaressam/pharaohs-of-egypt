@@ -1,0 +1,1508 @@
+[
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q748151"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Twenty-first_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q212728"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-first Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian dynasty"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Third Intermediate Period of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q583501"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twentieth Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q583501"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Twentieth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q180568"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twentieth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Period from 1189 to 1077 BCE"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Egyptian Empire"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q157956"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Nineteenth Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q737648"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Twenty-fifth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q212728"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-fifth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Kushite rule in Egypt during the third intermediate period"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Third Intermediate Period of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q754749"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-fourth Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q719634"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Eleventh_Dynasty_of_Egypt"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Eleventh Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "group of rulers and the time of their ruling in ancient Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q429981"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Tenth Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q269237"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Fifth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q177819"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Fifth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "dynasty of ancient Egypt"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Old Kingdom of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q211001"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Fourth Dynasty of Egypt"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2344-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2497-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1400616"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Eighth_Dynasty_of_Egypt"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Eighth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian dynasty"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q721801"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Seventh Dynasty of Egypt"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2159-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2170-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q926624"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Twenty-seventh_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q621917"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-seventh Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "first Achaemenid rule on Egypt (525–404 BC)"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Late Period of ancient Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q662410"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-sixth Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q728449"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Ninth_Dynasty_of_Egypt"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Ninth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian dynasty"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1400616"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Eighth Dynasty of Egypt"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2049-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2159-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q719639"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Twelfth_Dynasty_of_Egypt"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twelfth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Egyptian dynasty from 1991 to 1802 BCE"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q719634"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Eleventh Dynasty of Egypt"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-1801-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-1990-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q511257"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Twenty-ninth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q621917"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-ninth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian dynasty"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Late Period of ancient Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q833118"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-eighth Dynasty of Egypt"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-0377-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-0397-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1484140"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Dynasty_0"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q714601"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Protodynastic Period of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "period of ancient Egyptian history"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Predynastic Period of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q4027930"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Dynasty 00"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q748170"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Twenty-third_Dynasty_of_Egypt"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-third Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian dynasty"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q737629"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-second Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q269979"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Sixth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q177819"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Sixth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "dynasty of ancient Egypt"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Old Kingdom of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q269237"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Fifth Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q220276"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Third_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q177819"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Third Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "dynasty of ancient Egypt"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Old Kingdom of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q207778"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Second Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q721807"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Thirteenth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q206715"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Thirteenth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian dynasty"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Second Intermediate Period of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q719639"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twelfth Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q581531"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Antipatrid_dynasty"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Antipatrid dynasty"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Dorian Greek dynasty"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q13527812"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Achaemenid_dynasty"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Achaemenid dynasty"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Achemenid dynasty of Persia (705–330 BC)"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q978071"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Thirty-first_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q621917"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Thirty-first Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "second and last Achaemenid rule on Egypt (343–332 BC)"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Late Period of ancient Egypt"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-0331-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-0342-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q642301"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Seventeenth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q206715"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Seventeenth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "third Dynasty of the Ancient Egyptian Second Intermediate Period"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Second Intermediate Period of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q737695"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Sixteenth Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q211001"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q177819"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Fourth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "dynasty of ancient Egypt"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Old Kingdom of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q220276"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Third Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q146055"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Eighteenth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q180568"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Eighteenth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "dynasty of Egypt between 1550 BCE and 1295 BCE, notably comprising Akenaten and Hatshepsut"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Egyptian Empire"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q642301"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Seventeenth Dynasty of Egypt"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-1294-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-1549-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q737695"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Sixteenth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q206715"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Sixteenth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian dynasty"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Second Intermediate Period of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q728479"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Fifteenth Dynasty of Egypt"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-1579-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-1649-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q4027930"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Dynasty_00"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Dynasty 00"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-3100-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "7"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-3200-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "7"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q63027791"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Lysimachid dynasty"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "aristocratic clan"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q728479"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Fifteenth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q206715"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Fifteenth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian dynasty"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Second Intermediate Period of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q650945"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Fourteenth Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q833118"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Twenty-eighth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q621917"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-eighth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian dynasty"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Late Period of ancient Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q926624"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-seventh Dynasty of Egypt"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-0398-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-0403-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q650945"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Fourteenth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q206715"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Fourteenth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian dynasty"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Second Intermediate Period of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q721807"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Thirteenth Dynasty of Egypt"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-1599-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-1785-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q207778"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Second_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q187979"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Second Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "dynasty of ancient Egypt"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Early Dynastic Period of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q203859"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "First Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q157956"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Nineteenth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q180568"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Nineteenth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Egyptian dynasty from -1295 to -1186"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Egyptian Empire"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q146055"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Eighteenth Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q203859"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q187979"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "First Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "dynasty of ancient Egypt"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Early Dynastic Period of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1484140"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Protodynastic Period of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q662410"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Twenty-sixth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q621917"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-sixth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Egyptian dynasty of the Late Period (664-525 BCE)"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Late Period of ancient Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q737648"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-fifth Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q737629"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Twenty-second_Dynasty_of_Egypt"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-second Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian dynasty"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q748151"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-first Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q131976"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Ptolemaic_dynasty"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1546344"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Ptolemaic dynasty"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Macedonian Greek royal family which ruled the Ptolemaic Empire in Egypt"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "history of Ptolemaic Egypt"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-0029-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-0331-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q754749"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Twenty-fourth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q212728"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-fourth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian dynasty"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Third Intermediate Period of Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q748170"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-third Dynasty of Egypt"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-0714-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-0726-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q386303"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Thirtieth_Dynasty_of_Egypt"
+},
+"period": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q621917"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Thirtieth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian dynasty"
+},
+"periodLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Late Period of ancient Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q511257"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Twenty-ninth Dynasty of Egypt"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q538849"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Argead_dynasty"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Argead dynasty"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "dynasty of ancient Macedonia"
+}
+},
+{
+"dynasty": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q429981"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Tenth_Dynasty_of_Egypt"
+},
+"dynastyLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Tenth Dynasty of Egypt"
+},
+"dynastyDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "dynasty of ancient Egypt"
+},
+"follows": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q728449"
+},
+"followsLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Ninth Dynasty of Egypt"
+},
+"end": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-1999-01-01T00:00:00Z"
+},
+"endPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"start": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2049-01-01T00:00:00Z"
+},
+"startPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+}
+]

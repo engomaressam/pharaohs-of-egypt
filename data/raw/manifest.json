@@ -1,0 +1,14 @@
+{
+ "retrieved": "2026-10-29T16:42:29+00:00",
+ "endpoint": "https://query.wikidata.org/sparql",
+ "queries": {
+  "pharaohs": "\nSELECT DISTINCT ?pharaoh ?pharaohLabel ?pharaohDescription ?start ?startPrecision ?end ?endPrecision ?dynasty ?dynastyLabel\n                ?birth ?death ?sex ?sexLabel ?image ?article WHERE {\n  { ?pharaoh wdt:P39 wd:Q37110 } UNION { ?pharaoh wdt:P106 wd:Q37110 }\n  OPTIONAL { ?pharaoh p:P39 ?st . ?st ps:P39 wd:Q37110 .\n             OPTIONAL { ?st pqv:P580 ?sv . ?sv wikibase:timeValue ?start ; wikibase:timePrecision ?startPrecision }\n             OPTIONAL { ?st pqv:P582 ?ev . ?ev wikibase:timeValue ?end ; wikibase:timePrecision ?endPrecision } }\n  OPTIONAL { ?pharaoh wdt:P53 ?dynasty }\n  OPTIONAL { ?pharaoh wdt:P569 ?birth } OPTIONAL { ?pharaoh wdt:P570 ?death } OPTIONAL { ?pharaoh wdt:P21 ?sex }\n  OPTIONAL { ?pharaoh wdt:P18 ?image }\n  OPTIONAL { ?article schema:about ?pharaoh ; schema:isPartOf <https://en.wikipedia.org/> }\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"en\". }\n} LIMIT 20000",
+  "dynasties": "\nSELECT DISTINCT ?dynasty ?dynastyLabel ?dynastyDescription ?start ?startPrecision ?end ?endPrecision ?period ?periodLabel\n                ?follows ?followsLabel ?article WHERE {\n  { SELECT DISTINCT ?dynasty WHERE { { ?p wdt:P39 wd:Q37110 } UNION { ?p wdt:P106 wd:Q37110 } ?p wdt:P53 ?dynasty } }\n  OPTIONAL { ?dynasty p:P580/psv:P580 ?sv . ?sv wikibase:timeValue ?start ; wikibase:timePrecision ?startPrecision }\n  OPTIONAL { ?dynasty p:P582/psv:P582 ?ev . ?ev wikibase:timeValue ?end ; wikibase:timePrecision ?endPrecision }\n  OPTIONAL { ?dynasty wdt:P361 ?period } OPTIONAL { ?dynasty wdt:P155 ?follows }\n  OPTIONAL { ?article schema:about ?dynasty ; schema:isPartOf <https://en.wikipedia.org/> }\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"en\". }\n}",
+  "pyramids": "\nSELECT DISTINCT ?pyramid ?pyramidLabel ?pyramidDescription ?coords ?height ?builtFor ?builtForLabel ?location ?locationLabel\n                ?inception ?inceptionPrecision ?image ?article WHERE {\n  ?pyramid wdt:P31/wdt:P279* wd:Q12516 ; wdt:P17 wd:Q79 .\n  OPTIONAL { ?pyramid wdt:P625 ?coords } OPTIONAL { ?pyramid wdt:P2048 ?height }\n  OPTIONAL { ?pyramid wdt:P88 ?builtFor } OPTIONAL { ?pyramid wdt:P131 ?location }\n  OPTIONAL { ?pyramid p:P571/psv:P571 ?iv . ?iv wikibase:timeValue ?inception ; wikibase:timePrecision ?inceptionPrecision }\n  OPTIONAL { ?pyramid wdt:P18 ?image }\n  OPTIONAL { ?article schema:about ?pyramid ; schema:isPartOf <https://en.wikipedia.org/> }\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"en\". }\n} LIMIT 5000"
+ },
+ "rows": {
+  "pharaohs": 619,
+  "dynasties": 37,
+  "pyramids": 98
+ }
+}

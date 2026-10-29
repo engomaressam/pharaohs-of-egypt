@@ -1,0 +1,14 @@
+{
+ "pharaohs": {
+  "rows": 513,
+  "status": "passed"
+ },
+ "dynasties": {
+  "rows": 38,
+  "status": "passed"
+ },
+ "pyramids": {
+  "rows": 84,
+  "status": "passed"
+ }
+}

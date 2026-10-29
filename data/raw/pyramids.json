@@ -1,0 +1,3885 @@
+[
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1536118"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.218889 29.854444)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q269265"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/021%20Pepi%20I%202.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Pepi_I"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "mortuary complex of Pepi I"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pepi I Meryre"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q247189"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.223775 29.83397222)"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/SAK_S_3"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "SAK S 3"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Egyptian pyramid"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q238623"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.128333 29.9725)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Menkaure%27s%20pyramid.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Menkaure"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Menkaure"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smallest of the three main Pyramids of Giza, Egypt"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q81788"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2510-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "8"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "65.55"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q13444093"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.15694444 29.38833333)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q220240"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Meidoum03.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Meidum_Pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Meidum Pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "pyramid in Egypt"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Huni"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30683"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Beni Suef Governorate"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2610-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "7"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "65"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q166248"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(30.87166667 27.30777778)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q716021"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Khui-Pyramid.png"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Khui"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Khui"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Khui"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q29965"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Asyut Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1694723"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.22222222 29.83055556)"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Southern_South_Saqqara_pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Southern South Saqqara pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1478835"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.213333 29.840278)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q6198"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/PepiIIPyramid.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Pepi_II"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Pepi II"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pepi II"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q284794"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.22361111 29.79166667)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q19244"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/BlackPyramidOfAmenemhetIII.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Black_Pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Amenemhat III"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid; The Black Pyramid was built by King Amenemhat III during the Middle Kingdom of Egypt. It is one of the five remaining pyramids of the original eleven pyramids at Dahshur in Egypt."
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Amenemhat III"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q121843323"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.217949 29.854172)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q814467"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Behenu"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Behenu"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q3411261"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.2222 29.8766)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramide%20Ipout%20I%202.jpg"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Iput"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q3411254"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.1358 29.978)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20Pyramid%20G1d.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_G1-d"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid G1-d"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1569654"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.074722 30.032222)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q209397"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Abu%20Rawash%20Pyramid.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Djedefre"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Djedefre"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Djedefre"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30805"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Cairo Governorate"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "12"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q3411252"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.1363 29.9788)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Pyramid%20of%20Hetepheres%20%28G1a%29.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_G1-a"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid G1-a"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "30"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q11818430"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(30.89888889 29.27416667)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q19244"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramid%20of%20amenemhet%20hawarra%2001.jpg"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Hawara"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Amenemhat III"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q203299"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Faiyum"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q37200"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.13422 29.97915)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q161904"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Kheops-Pyramid.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Great Pyramid of Giza"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "oldest and largest of the three pyramids in the Giza Necropolis; one of the seven ancient wonders of the world"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Khufu"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2559-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "137.5"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q2119726"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.2248 29.804)"
+},
+"pyramidLabel": {
+"type": "literal",
+"value": "Q2119726"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q240579"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.201666666 29.893805555)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q269271"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramid%20of%20Neferefre%2C%20Abusir%2C%201970ies.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Neferefre"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Neferefre"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Neferefre"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1574230"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.20166667 29.89861111)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q268601"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Unfinished_Pyramid_of_Abusir"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Unfinished Pyramid of Abusir"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Shepseskare Isi"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q785696"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.15155556 29.94012222)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Vue2-grande-excavation.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Unfinished_Northern_Pyramid_of_Zawyet_El_Aryan"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Unfinished Northern Pyramid of Zawyet el'Aryan"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1974158"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.2186 29.87275)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q299445"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Saqqarah%20Ouserkaf%2004.jpg"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Neferhetepes"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Africa"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Neferhetepes"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q2138962"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.21777778 29.85388889)"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Reherishefnakht"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Reherishefnakht"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Africa"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q740691"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.161111 29.932778)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Khaba%20pyramid%20at%20Zawyet%20el%27Aryan.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Layer_Pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Layer Pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Archaeological site in Egypt"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "17"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q135318"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.21302778 29.86644444)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q220256"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Sekhemkhet%20pyramid%20at%20Saqqara.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Buried_Pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Buried Pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian step pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Sekhemkhet"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "8"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q402041"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.937782 26.175717)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q7222"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramid%20of%20Ahmose%2C%20Abydos%2C%201998.png"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Ahmose"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Ahmose"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Ahmose I"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30682"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Matruh Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q192418"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.216666666 29.871111111)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q174367"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Sakkara%2001.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Djoser"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Djoser"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Archeological site in Egypt"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Djoser"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2639-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "60"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q821146"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.22277835 29.87611084)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q269257"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Headless_Pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Headless Pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Menkauhor Kaiu"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q131820"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.203333333 29.897777777)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q243692"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Abousir%20Sahoure%2001.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Sahure"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Sahure"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Sahure"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2480-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "8"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1570082"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.218901 29.873453)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q268614"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Saqqarah%20Ouserkaf%2006.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Userkaf"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Userkaf"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Userkaf"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1698602"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(30.970833333 29.236388888)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q18722"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Lahun%20Pyramid%2001.JPG"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Senusret_II"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Senusret II"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Senusret II"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30656"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Faiyum Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1569654"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.074722 30.032222)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q209397"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Abu%20Rawash%20Pyramid.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Djedefre"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Djedefre"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Djedefre"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30805"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Cairo Governorate"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "67"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q3411270"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.2222 29.8763)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramide%20Khouit%20II%201.jpg"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Khuit II"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q238623"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.128333 29.9725)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Menkaure%27s%20pyramid.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Menkaure"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Menkaure"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smallest of the three main Pyramids of Giza, Egypt"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q81788"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2510-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "8"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "61"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q2006734"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.22083333 29.7675)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q228951"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Northern_Mazghuna_pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Northern Mazghuna pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Africa"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Sobekneferu"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1752090"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.225556 29.818889)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q19248"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Photo-pyramide-sesostris3.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Senusret_III"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Senusret III"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Senusret III"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "64"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1377626"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.20305556 29.89305556)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q269200"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Lepsius-XXV%20pyramid.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Double_Pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Double Pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Nyuserre Ini"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q275666"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.22277778 29.80555556)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q18734"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Piramide-amenemhet2.png"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/White_Pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "White Pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Amenemhat II"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1478801"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.214722 29.868333)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q244985"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Sakkara%20C02-29.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Unas"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Unas"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Unas"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2359-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "43"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q3411256"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.1363 29.9778)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Pyramid%20of%20Henutsen%20%28G1c%29.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_G1-c"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid G1-c"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "29.62"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q3411276"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.218 29.8533)"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Nubwenet"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q206610"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.220944444 29.560011111)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q18763"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Licht-senwsPyramids%2001.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Senusret_I"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Senusret I"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Senusret I"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-1989-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q208358"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.130972 29.976)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q199861"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Egypt.Giza.Sphinx.02.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Khafre"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Khafre"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid in Giza, Egypt"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Khafra"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q81788"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "143.5"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q208358"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.130972 29.976)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q199861"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Khafre%20Pyramid%20Giza.JPG"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Khafre"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Khafre"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid in Giza, Egypt"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Khafra"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q81788"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "143.5"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1232134"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.22083 29.85111)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q269247"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Djedkare-Isesi-04.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Djedkare_Isesi"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Djedkare-Isesi"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Djedkare Isesi"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "52.5"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1070133"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.2025 29.89413889)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q746068"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Abousir%20KhentkaousII%2001%20b.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Khentkaus_II"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "pyramid of Khentkaus II"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Khentkaus II"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q136557794"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Sesheshet"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Sesheshet"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "pyramid of Egyptian queen Sesheshet"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q135332"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.205833333 29.808333333)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q189371"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Rote%20Pyramide%20%28Dahschur%29%2004.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Red_Pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Red Pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Sneferu"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2589-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "104"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q587347"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.136251 29.978441)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Meritetis-pyramide.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_G1-b"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid G1-b"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "30"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q3411265"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Ankhesenpepi III"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q3411272"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Meritites II"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q2381000"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.22083333 29.76166667)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q19246"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Mazghouna-sud-photo.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Southern_Mazghuna_pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Southern Mazghuna pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Amenemhat IV"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q462453"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.22138889 29.78166667)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q462464"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Plan-complexe-ameni-kemaou%20copie.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Ameny_Qemau"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Ameny Qemau"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Ameny Qemau"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-1744-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q3411262"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.213 29.841)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramide%20Ipout%20II%2001.jpg"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Iput II"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1698602"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(30.97055556 29.23611111)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q18722"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Lahun%20Pyramid%2001.JPG"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Senusret_II"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Senusret II"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Senusret II"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30656"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Faiyum Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q3411274"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.2132 29.841)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramide%20de%20Neith%2001.jpg"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Neith"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1820141"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.20286111 29.89352778)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q269200"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramide%20LXXIV.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Lepsius_XXIV"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Lepsius XXIV"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Egyptian pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Nyuserre Ini"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q3411263"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.2188 29.8537)"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Inenek-Inti"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q13444093"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.15694444 29.38833333)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q189371"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Meidoum03.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Meidum_Pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Meidum Pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "pyramid in Egypt"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Sneferu"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30683"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Beni Suef Governorate"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2610-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "7"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "65"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q629240"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.215 29.85055556)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q269209"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramid%20of%20Merenre%2C%20Saqqara%2C%201990ies.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Merenre"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Merenre"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Merenre Nemtyemsaf I"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q838236"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.09444444 30.04083333)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Lepsius%20I%20Pyramid.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Lepsius_I_Pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Lepsius-I Pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1278166"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.22161111 29.87527778)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q269285"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramid%20of%20Teti%202010.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Teti"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Teti"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Teti"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q587347"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.136251 29.978441)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Meritetis-pyramide.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_G1-b"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid G1-b"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q81788"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "30"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q462160"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.2253 29.5749)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q18771"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/AmenemhetIPyramid.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Amenemhat_I"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Amenemhet I"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Amenemhat I"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-1989-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q135332"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.205833333 29.808333333)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q189371"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Egypt.Dashur.RedPyramid.01.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Red_Pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Red Pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Sneferu"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2589-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "104"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1478835"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.21667 29.83333)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q6198"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/PepiIIPyramid.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Pepi_II"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Pepi II"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pepi II"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q246799"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.21750006 29.84166697)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q373513"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Qakare-Ibi-Pyramid.png"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Ibi"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Qakare Ibi"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q3411264"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.218 29.8542)"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Ankhesenpepi II"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q390212"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.21222222 29.81083333)"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Lepsius_L"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Lepsius-L Pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q459608"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.209166666 29.790277777)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q189371"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Bent%20Pyramid%20featuring%20the%20original%20polished%20limestone%20outer%20casing%20that%20the%20pyramids%20used%20to%20have%20%2814616487960%29.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Bent_Pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Bent Pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient tomb in Egypt"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Sneferu"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+},
+"inception": {
+"datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+"type": "literal",
+"value": "-2699-01-01T00:00:00Z"
+},
+"inceptionPrecision": {
+"datatype": "http://www.w3.org/2001/XMLSchema#integer",
+"type": "literal",
+"value": "9"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "105.07"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1751693"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.20355556 29.89566667)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q269200"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Abousir%20Niouserre%2001.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Nyuserre"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Nyuserre Ini"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Nyuserre Ini"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1069846"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.223775 29.83235278)"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q380503"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Khendjer-complexe-1.jpg"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Khendjer"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Khendjer"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "smooth-sided pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Khendjer"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1428264"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q518143"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Merikare"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Merikare"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "still unidentified ancient Egyptian pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Merikare"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q2119717"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Athribis"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Athribis"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.1858 30.46949)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramide%20von%20Athribis.jpg"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q23949564"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Al Haram al Kadhdhāb"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.2 29.783333333)"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q23939130"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Queen Udjebten"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.216666666 29.833333333)"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q23944839"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Niuserre"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.2 29.9)"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1603917"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q220240"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Edfu_South_pyramid"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Edfu South Pyramid"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "step pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Huni"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(32.841944444 24.943611111)"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q2119744"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q220240"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_el-Kula"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of el-Kula"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Huni"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(32.733455555 25.133425)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Perring%20Vyse%20Pyramid%20of%20el-Kula.jpg"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q29937"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Aswan Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q838479"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q268610"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Khentkaus_I"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Khentkaus I"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian tomb"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Khentkaus I"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.13549 29.97347)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomb%20of%20Khentkaus%20I.jpg"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q81788"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "17"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q688720"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q189371"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Seila"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Seila"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "archaeological site in the Egyptian depression of el-Faiyum"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Sneferu"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.053580555 29.382588888)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/SeilaPyramidSouthSide.jpg"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30656"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Faiyum Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1974163"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q551453"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Neferkare_Neby"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Neferkare Neby"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Egyptian pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Neferkare Neby"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q838479"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q268610"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Khentkaus_I"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Khentkaus I"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian tomb"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Khentkaus I"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.13536111 29.97329167)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomb%20of%20Khentkaus%20I.jpg"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q81788"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "17"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1273879"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q220240"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Zawyet_el-Maiyitin"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Zawyet el-Maiyitin"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "step pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Huni"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(30.828611111 28.045833333)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramide%20von%20Saujet%20el-Meitin.JPG"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30675"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Minya Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q23952102"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Ahrāmāt Dahshūr"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.212222222 29.8025)"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q79"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Egypt"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q2119728"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q220240"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Naqada"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Naqada"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Huni"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(32.732983 25.976554)"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q23932424"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Haram Zāwiyat al ‘Urbān"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.15 29.933333333)"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q569832"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q220240"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Elephantine"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Elephantine"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "step pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Huni"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(32.88527778 24.08555556)"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1675285"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q886060"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Ity"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Ity"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Tomb of Egyptian pharaoh Ity"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Iti"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q23955049"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Haram Amenemhe‘t III"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.2 29.783333333)"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1424001"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q430828"
+},
+"pyramidLabel": {
+"type": "literal",
+"value": "Q1424001"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Neferuptah"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q838479"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q268610"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Khentkaus_I"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Khentkaus I"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian tomb"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Khentkaus I"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.13549 29.97347)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomb%20of%20Khentkaus%20I.jpg"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q81788"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "18.5"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q23937066"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Haram ash Shawwāf"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.216666666 29.85)"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q838479"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q268610"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Khentkaus_I"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Khentkaus I"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "ancient Egyptian tomb"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Khentkaus I"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.13536111 29.97329167)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomb%20of%20Khentkaus%20I.jpg"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q81788"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza"
+},
+"height": {
+"datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+"type": "literal",
+"value": "18.5"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q141244668"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Nubkheperre_Intef"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Nubkheperre Intef"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "pyramid in Dra' Abu el-Naga, Egypt"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(32.624021452 25.737035725)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A9cropole%20Dra%20Abou%20El%20Naga%20-%20Louxor%20%28EG%29%20-%202025-12-12%20-%2018%20crop.jpg"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q22928561"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Qurnah District"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q2380546"
+},
+"pyramidLabel": {
+"type": "literal",
+"value": "Q2380546"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.22416667 29.78666667)"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1609149"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q268576"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Neferirkare"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Neferirkare"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Second pyramid to be built at the necropolis site of Abusir"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Neferirkare Kakai"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.20244444 29.89502778)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Abousir%20Neferirkare%2004.jpg"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q23937663"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Haram Senûsret III"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "building in Egypt"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.216666666 29.816666666)"
+},
+"location": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q30832"
+},
+"locationLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Giza Governorate"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q1649679"
+},
+"builtFor": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q220240"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_of_Sinki"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid of Sinki"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "step pyramid"
+},
+"builtForLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Huni"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.96611111 26.15777778)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramide-sinki-rampes.jpg"
+}
+},
+{
+"pyramid": {
+"type": "uri",
+"value": "http://www.wikidata.org/entity/Q25389709"
+},
+"article": {
+"type": "uri",
+"value": "https://en.wikipedia.org/wiki/Pyramid_G3-c"
+},
+"pyramidLabel": {
+"xml:lang": "en",
+"type": "literal",
+"value": "Pyramid G IIIc"
+},
+"pyramidDescription": {
+"xml:lang": "en",
+"type": "literal",
+"value": "pyramid in the Giza complex"
+},
+"coords": {
+"datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+"type": "literal",
+"value": "Point(31.12733 29.97163)"
+},
+"image": {
+"type": "uri",
+"value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyramid%20G3-c.jpg"
+}
+}
+]

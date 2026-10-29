@@ -1,0 +1,35 @@
+dynasty_number,dynasty,period,start_bc,end_bc,note
+0,Dynasty 0 (Protodynastic),Predynastic Period,3200,3100,Naqada III rulers before the unification; dates approximate
+1,First Dynasty,Early Dynastic Period,3100,2890,
+2,Second Dynasty,Early Dynastic Period,2890,2686,
+3,Third Dynasty,Old Kingdom,2686,2613,
+4,Fourth Dynasty,Old Kingdom,2613,2494,the Giza pyramids
+5,Fifth Dynasty,Old Kingdom,2494,2345,Pyramid Texts first appear under Unas
+6,Sixth Dynasty,Old Kingdom,2345,2181,
+7,Seventh Dynasty,First Intermediate Period,2181,2160,largely legendary; often merged with the Eighth
+8,Eighth Dynasty,First Intermediate Period,2181,2160,
+9,Ninth Dynasty,First Intermediate Period,2160,2130,Herakleopolitan
+10,Tenth Dynasty,First Intermediate Period,2130,2040,Herakleopolitan
+11,Eleventh Dynasty,Middle Kingdom,2125,1985,Theban; rules all Egypt from c. 2055 under Mentuhotep II
+12,Twelfth Dynasty,Middle Kingdom,1985,1773,
+13,Thirteenth Dynasty,Second Intermediate Period,1773,1650,
+14,Fourteenth Dynasty,Second Intermediate Period,1773,1650,Delta-based; overlaps the Thirteenth
+15,Fifteenth Dynasty,Second Intermediate Period,1650,1550,Hyksos
+16,Sixteenth Dynasty,Second Intermediate Period,1650,1580,Theban; contemporary with the Hyksos
+17,Seventeenth Dynasty,Second Intermediate Period,1580,1550,Theban
+18,Eighteenth Dynasty,New Kingdom,1550,1295,
+19,Nineteenth Dynasty,New Kingdom,1295,1186,
+20,Twentieth Dynasty,New Kingdom,1186,1069,
+21,Twenty-first Dynasty,Third Intermediate Period,1069,945,
+22,Twenty-second Dynasty,Third Intermediate Period,945,715,Libyan
+23,Twenty-third Dynasty,Third Intermediate Period,818,715,contemporary with the Twenty-second
+24,Twenty-fourth Dynasty,Third Intermediate Period,727,715,
+25,Twenty-fifth Dynasty,Third Intermediate Period,747,656,Kushite
+26,Twenty-sixth Dynasty,Late Period,664,525,Saite
+27,Twenty-seventh Dynasty,Late Period,525,404,First Persian Period
+28,Twenty-eighth Dynasty,Late Period,404,399,
+29,Twenty-ninth Dynasty,Late Period,399,380,
+30,Thirtieth Dynasty,Late Period,380,343,
+31,Thirty-first Dynasty,Late Period,343,332,Second Persian Period
+32,Macedonian (Argead) rulers,Ptolemaic Period,332,305,Alexander the Great to Alexander IV
+33,Ptolemaic Dynasty,Ptolemaic Period,305,30,ends with Cleopatra VII
